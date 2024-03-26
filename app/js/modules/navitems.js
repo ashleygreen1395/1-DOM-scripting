@@ -1,27 +1,27 @@
 const navItemsObject = [
     {
-        label: 'Arts',
-        link: '#arts',
+        label: "Arts",
+        link: "#arts",
     },
     {
-        label: 'Books',
-        link: '#books',
+        label: "Books",
+        link: "#books",
     },
     {
-        label: 'Fashion',
-        link: '#fashion',
+        label: "Fashion",
+        link: "#fashion",
     },
     {
-        label: 'Food',
-        link: '#food',
+        label: "Food",
+        link: "#food",
     },
     {
-        label: 'Movies',
-        link: '#movies',
+        label: "Movies",
+        link: "#movies",
     },
     {
-        label: 'Travel',
-        link: '#travel',
+        label: "Travel",
+        link: "#travel",
     },
 ];
 
